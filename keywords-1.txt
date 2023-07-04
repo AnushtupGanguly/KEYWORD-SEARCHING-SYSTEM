@@ -1,0 +1,5 @@
+book
+apple
+cat
+dog
+elephant
